@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="README.md"><b>English</b></a>
+  &nbsp;·&nbsp;
+  <a href="README.fr.md">Français</a>
+  &nbsp;·&nbsp;
+  <a href="README.es.md">Español</a>
+</p>
+
 # 🦀 Rust LLM Manager
 
 ![Rust](https://img.shields.io/badge/Rust-2021-eddede?style=for-the-badge&logo=rust)
